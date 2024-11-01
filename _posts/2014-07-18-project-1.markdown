@@ -7,5 +7,15 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Mediation
+description: |
+    <p> "Willst du Recht haben oder glücklich sein?" </p>
+ 
+    <p> Mediation ist eine wirksame Möglichkeit, Streitfälle und Interessengegensätze so zu bearbeiten, dass alle Beteiligten zu zufriedenstellenden Lösungen finden. </p>
+   
+    <p> Konflikte werden als Chance betrachtet, mehr über uns selbst und unser Gegenüber zu erfahren. Die personenzentrierte Mediation auf der Basis Gewaltfreier Kommunikation nach Marshall B. Rosenberg geht auf die starken Gefühle und die dahinter stehenden Bedürfnisse ein, die Auseinandersetzungen oft so belastend machen. </p> 
+   
+    <p> Dieser transformative Ansatz in der Mediation orientiert sich am emanzipatorischen Gedankengut der humanistischen Psychologie nach Carl Rogers. In Verbindung dem Harvard-Modell der Verhandlungsführung und dessen Weiterentwicklung im Konzept "Beyond Reason: Wie Gefühle in Verhandlungen einbezogen werden können" ermöglicht er eine Alternative zu juristischen Verfahren und dient er als Grundlage in komplexen Entscheidungsprozessen in allen Anwendungsgebieten: Familie, Arbeitswelt, Schule, Gesundheitswesen, Gemeinwesen, zwischen Generationen, im Bauwesen und vielem mehr. </p>
+
+
 ---
