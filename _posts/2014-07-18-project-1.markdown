@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: Mediation.png
+img: medi.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -15,7 +15,7 @@ description: |
    
     <p> Konflikte werden als Chance betrachtet, mehr über uns selbst und unser Gegenüber zu erfahren. Die personenzentrierte Mediation auf der Basis Gewaltfreier Kommunikation nach Marshall B. Rosenberg geht auf die starken Gefühle und die dahinter stehenden Bedürfnisse ein, die Auseinandersetzungen oft so belastend machen. </p> 
    
-    <p> Dieser transformative Ansatz in der Mediation orientiert sich am emanzipatorischen Gedankengut der humanistischen Psychologie nach Carl Rogers. In Verbindung dem Harvard-Modell der Verhandlungsführung und dessen Weiterentwicklung im Konzept "Beyond Reason: Wie Gefühle in Verhandlungen einbezogen werden können" ermöglicht er eine Alternative zu juristischen Verfahren und dient er als Grundlage in komplexen Entscheidungsprozessen in allen Anwendungsgebieten: Familie, Arbeitswelt, Schule, Gesundheitswesen, Gemeinwesen, zwischen Generationen, im Bauwesen und vielem mehr. </p>
+    <p> Dieser transformative Ansatz in der Mediation orientiert sich am emanzipatorischen Gedankengut der humanistischen Psychologie nach Carl Rogers. In Verbindung dem Harvard-Modell der Verhandlungsführung und dessen Weiterentwicklung im Konzept "Beyond Reason: Wie Gefühle in Verhandlungen einbezogen werden können" ermöglicht er eine Alternative zu juristischen Verfahren und dient er als Grundlage in komplexen Entscheidungsprozessen in allen Anwendungsgebieten: Partnerschaft und Familie, Schule und Arbeitswelt, Gesundheitswesen, Gemeinwesen, im Bauwesen, zwischen Generationen, in Hierarchien und vielem mehr. </p>
 
 
 ---
