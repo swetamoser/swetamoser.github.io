@@ -7,5 +7,20 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: |
+    <h4> "Alles, was Menschen tun, tun sie, um Bedürfnisse zu erfüllen." </h4>
+ 
+    <p> Doch dafür wenden sie unterschiedliche, mehr oder weniger dienliche Strategien an, und auf dieser Ebene entstehen Konflikte. </p>
+   
+    <p> Die Gewaltfreie Kommunikation (GFK) nach Marshall B. Rosenberg, auch Wertschätzende oder Empathische Kommunikation genannt, ist eine Anleitung in vier genial einfachen Schritten, wie Gespräche zwischen Menschen fruchtbar werden und Beziehungen gelingen können: </p> 
+
+    <p> Ohne Bewertung oder Interpretation wird eine konkrete <b> Beobachtung </b> geschildert: „Was ist passiert?“ </p>
+
+    <p> Es schließt sich die Beschreibung eines <b> Gefühls </b> an, das mit der Beobachtung in Verbindung steht: „Wie geht es dir damit?“</p>
+
+    <p> Entscheidend ist, dass das hinter dem Gefühl liegende <b> Bedürfnis </b> erkannt und formuliert wird. „Was ist dir wichtig?“ Bedürfnisse sind allen Menschen gemeinsam, deshalb kann hier Verbindung entstehen. </p>
+
+    <p> Mit dieser Klarheit wird schließlich eine <b> Bitte </b> um eine konkrete Handlung, eine veränderte Strategie geäußert, mit der das Bedürfnis erfüllt werden kann. </p>
+   
+    <p> Die Gewaltfreie Kommunikation unterstützt uns dabei, mit Verständnis und Mitgefühl auf Konflikte zu reagieren, empathisch mit uns selbst, unseren Mitmenschen und der Welt im Einklang zu sein. </p>
 ---
