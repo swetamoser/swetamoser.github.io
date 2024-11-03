@@ -7,5 +7,12 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: |
+    <h4> "Eine gute Moderation entlastet alle Beteiligten" </h4>
+ 
+    <p> Im Team zusammen zu arbeiten ist empowernd und herausfordernd gleichermaßen. Es können Dynamiken entstehen, die ungeheure Energien freisetzen, aber manchmal auch lähmen und frustrieren. </p>
+   
+    <p> Eine externe Moderation von Teamsitzungen, Arbeitstreffen, Klausuren oder auch Veranstaltungen und Workshops ist hilfreich, um inhaltlich weiter zu kommen. Die Zusammenarbeit wird effektiver und Entscheidungen belastbarer, weil Inhalte klar strukturiert sind, Zeitpläne gehalten werden und sich alle gehört und einbezogen fühlen. Dabei unterstützt ein gut gefüllter Methodenkoffer und eine große Rollenklarheit. </p> 
+
+    
 ---
