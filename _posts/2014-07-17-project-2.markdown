@@ -16,9 +16,9 @@ description: |
 
     <p> Ohne Bewertung oder Interpretation wird eine konkrete <b> Beobachtung </b> geschildert: „Was ist passiert?“ </p>
 
-    <p> Es schließt sich die Beschreibung eines <b> Gefühls </b> an, das mit der Beobachtung in Verbindung steht: „Wie geht es dir damit?“</p>
+    <p> Es schließt sich die Beschreibung eines <b> Gefühls </b> an, das mit der Beobachtung in Verbindung steht: „Wie geht es mir damit?“</p>
 
-    <p> Entscheidend ist, dass das hinter dem Gefühl liegende <b> Bedürfnis </b> erkannt und formuliert wird. „Was ist dir wichtig?“ Bedürfnisse sind allen Menschen gemeinsam, deshalb kann hier Verbindung entstehen. </p>
+    <p> Entscheidend ist, dass das hinter dem Gefühl liegende <b> Bedürfnis </b> erkannt und formuliert wird. „Was ist mir wichtig?“ Bedürfnisse sind allen Menschen gemeinsam, deshalb kann hier Verbindung entstehen. </p>
 
     <p> Mit dieser Klarheit wird schließlich eine <b> Bitte </b> um eine konkrete Handlung, eine veränderte Strategie geäußert, mit der das Bedürfnis erfüllt werden kann. </p>
    
