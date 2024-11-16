@@ -8,10 +8,14 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development   
 description: |
-    <p> Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+
+    <h4> Fachlichkeit und Authentizität </h4>
+
+    <p> Ein Impulsvortrag gibt einer Veranstaltung oder Konferenz Struktur, führt ins Thema ein und setzt Bezugspunkte für die weitere Vertiefung. Eine Keynote fasst den aktuellen Stand der Wissenschaft zusammen, ohne zu langweilen, bringt das Auditorium auf ein gemeinsames Kenntnislevel oder beleuchtet ungewohnte Aspekte.</p>
  
-    Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-  
+     <p> Mir ist es wichtig, zur Beschäftigung mit Kommunikation und Mediation, mit Konfliktbearbeitung in der Bürgerbeteiligung, mit Kinder- und Jugendbeteiligung, Demokratie und Politischer Bildung zu inspirieren. Humorvoll, in Einfacher Sprache oder im fünfhebigen Jambus, an die Zielgruppe angepasst und gleichzeitig immer authentisch. </p>
+     
+    
 
 ---
 

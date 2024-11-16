@@ -9,7 +9,7 @@ client: Start Bootstrap
 category: Web Development
 title: Mediation
 description: |
-    <h4> "Willst du Recht haben oder glücklich sein?" </h4>
+    <h4> Willst du Recht haben oder glücklich sein? </h4>
  
     <p> Mediation ist eine wirksame Möglichkeit, Streitfälle und Interessengegensätze so zu bearbeiten, dass alle Beteiligten zu zufriedenstellenden Lösungen finden. </p>
    

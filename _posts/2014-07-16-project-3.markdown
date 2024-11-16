@@ -8,7 +8,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: |
-    <h4> "Eine gute Moderation entlastet alle Beteiligten" </h4>
+    <h4> Eine gute Moderation entlastet alle Beteiligten </h4>
  
     <p> Im Team zusammen zu arbeiten ist empowernd und herausfordernd gleichermaßen. Es können Dynamiken entstehen, die ungeheure Energien freisetzen, aber manchmal auch lähmen und frustrieren. </p>
    

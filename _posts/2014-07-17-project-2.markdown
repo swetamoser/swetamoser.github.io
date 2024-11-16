@@ -8,7 +8,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: |
-    <h4> "Alles, was Menschen tun, tun sie, um Bedürfnisse zu erfüllen." </h4>
+    <h4> Alles, was Menschen tun, tun sie, um Bedürfnisse zu erfüllen. </h4>
  
     <p> Doch dafür wenden sie unterschiedliche, mehr oder weniger dienliche Strategien an, und auf dieser Ebene entstehen Konflikte. </p>
    
