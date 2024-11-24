@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: modi.png
-alt: image-alt
+alt: Moderationsmaterial nd Brötchen auf einem Tisch
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
