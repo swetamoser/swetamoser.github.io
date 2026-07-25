@@ -8,7 +8,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: |
-    <h4> Entwicklung, neue Prozesse, Qualitätssicherung und Wachstum – gemeinsam und achtsam </h4>
+    <h4> Neue Prozesse, Qualitätssicherung und Wachstum – gemeinsam und achtsam </h4>
  
     <p> Individuell, im Team oder als Organisation: Veränderungsprozesse sind anstrengend, und nicht immer ist es einfach, sich an neue Gegebenheiten anzupassen. Manchmal ist das auch gar nicht notwendig oder auch nur hilfreich, aber eine Entscheidung muss in jedem Fall getroffen werden. </p>
 
