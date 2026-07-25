@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: kommi.png
+img: 3.png
 alt: Giraffe
 project-date: April 2014
 client: Start Bootstrap
